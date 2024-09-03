@@ -4,7 +4,7 @@ Welcome to my portfolio! Here you can find a showcase of my projects and skills 
 
 ## About Me
 
-I am Swapnil, a 2nd year BCA student at United University, aspiring to become a frontend developer. I have a passion for creating beautiful and functional web applications.
+I am Sumit, a 2nd year BCA student at United University, aspiring to become a frontend developer. I have a passion for creating beautiful and functional web applications.
 
 ## Skills
 
