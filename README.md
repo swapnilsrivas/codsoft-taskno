@@ -1,4 +1,4 @@
-# Sumit's Portfolio
+# Swapnil's Portfolio
 
 Welcome to my portfolio! Here you can find a showcase of my projects and skills as a frontend developer.
 
